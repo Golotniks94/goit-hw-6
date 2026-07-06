@@ -607,10 +607,6 @@ img {
     flex-wrap: nowrap;
     gap: 120px;
   }
-
-  .footer-left {
-    width: auto;
-  }
 }
 
 .footer-text {
