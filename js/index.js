@@ -1,3 +1,6 @@
+'use strict';
+// Strict mode
+
 // Modal form
 const openBtn = document.querySelector('.hero-button');
 const closeBtn = document.querySelector('.modal-close');
